@@ -1,15 +1,15 @@
 .callout.primary {
-    background-color: #a3b18a;
+    background-color: #b1a78a;
 }
 
 .title-bar {
-    background: #344e41;
+    background: #a07b4f;
     color: #dad7cd;
     padding: .5rem;
 }
 
 .anchor {
-    color: #3a5a40;
+    color: #a07b4f;
 }
 
 .anchor:hover {
@@ -21,10 +21,9 @@
     width: 100%;
     margin-left: 0;
     margin-right: 0;
-    background-color: #588157;
+    background-color: #a07b4f;
 }
 
 .button.expanded:hover {
-    background-color: #3a5a41;
+    background-color: #9c8f7f;
 }
-
